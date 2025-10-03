@@ -1,8 +1,8 @@
 //simple hello program
 //single label comment
 /*
-Name:Kevin 
-Reg:KipngenoPA106/G/28707/25
+Name:Kevin kipngeno
+Reg:PA106/G/28707/25
 Describtion:programme to promt user to fill their age,height,Id no.,bank account balance
 
 */
@@ -29,3 +29,4 @@ int main() { // main function
 }
  
     
+
