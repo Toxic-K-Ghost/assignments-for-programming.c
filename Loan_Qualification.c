@@ -1,5 +1,5 @@
 /*
-Name:Kevin 
+Name:Kevin kipngeno
 Reg:PA106/G/28707/25
 Description:program to Implement requirements for a loan 
 Date:23 September 2025
@@ -31,3 +31,4 @@ int main()//main function
 
    return 0;
 } 
+
